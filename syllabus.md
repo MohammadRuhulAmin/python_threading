@@ -1,4 +1,4 @@
-## Syllabus ## 
+## Syllabus ##  
 __Getting Started__
 __All about python Threads__
 __Creating Threads__
