@@ -15,8 +15,8 @@ print(threading.current_thread())
 # i3736 is the id of that thread
 
 print(threading.current_thread().name) # will print the name of that thread only
-print(threading.current_thread().ident)
-print(threading.current_thread().is_alive())
+print(threading.current_thread().ident)# will print the Thread id
+print(threading.current_thread().is_alive())# will print if thread running or not !
 
 
 
